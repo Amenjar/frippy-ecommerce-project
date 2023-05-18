@@ -1,0 +1,83 @@
+.contact__content {
+  background-color: #f9f9f9;
+  padding: 50px;
+  text-align: center;
+  margin-bottom: -750px;
+}
+
+.contact__address h5,
+.contact__form h5 {
+  font-size: 24px;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+}
+.contact__address h5{
+    margin-top: -40px;
+}
+.contact__address ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.contact__address li {
+  margin-bottom: 20px;
+}
+
+.contact__address h6 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.contact__address p {
+  margin: 0;
+  font-size: 16px;
+}
+
+.contact__form input,
+.contact__form textarea {
+  width: 100%;
+  margin-bottom: 20px;
+  border: 2px solid #ccc;
+  padding: 10px;
+  font-size: 16px;
+  outline: none;
+}
+
+.contact__form textarea {
+  height: 120px;
+}
+
+.button3 {
+  background-color: #141414;
+  color: #ffffff;
+  font-size: 14px;
+  padding: 13px 33px;
+  border-radius: 25px;
+}
+
+.button3:hover {
+  background-color: #cfb845;
+  color: #141414;
+}
+.contact-card {
+  padding: 20px;
+  background-color: white;
+  width: 500px;
+  margin: 30px auto;
+  border-radius: 10px;
+}
+
+
+.conatct-card .form-control {
+  height: 50px;
+  background-color: #f5f5f7;
+  color: #777777;
+  font-size: 14px;
+  border-radius: 10px;
+  border-color: transparent;
+}
+.contact-page {
+  background-color: #ebe6e6;
+  margin-bottom: 80px;
+}
+

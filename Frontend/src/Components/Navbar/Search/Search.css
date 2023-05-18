@@ -1,0 +1,16 @@
+.searchBar{
+   margin-top: -50px;
+   margin-left: -100px;
+}
+.searchBar input{
+    font-size: 1.2rem;
+    padding: .5rem 1rem;
+}
+.search__results{
+    width: 100%;
+}
+.search__result{
+    border: 1px solid #EEE;
+    margin: .4rem 1rem;
+    padding: .4rem;
+}

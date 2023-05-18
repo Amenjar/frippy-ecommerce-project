@@ -1,0 +1,40 @@
+.products img{
+    max-width: 100%;
+    
+}
+
+.products{
+    margin-left: 70px;
+    
+}
+
+.products {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.product {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 22%;
+    margin-right: 15px;
+    margin-top: 8px;
+}
+
+.button {
+    margin-top: 8px;
+    width: 80px;
+    margin: auto;
+       
+      
+    
+}
+
